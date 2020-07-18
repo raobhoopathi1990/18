@@ -1,0 +1,40 @@
+commit 6a99b0f30ddb1515c3872f5b4611ac28bb7dfd4d
+Author: bhupathi <raobhupathi1990@gmail.com>
+Date:   Sat Jul 18 20:25:35 2020 +0530
+
+    add all files
+
+commit 21d796bac75d7d3fbc77a823d908e4240e22ec24
+Author: bhupathi <raobhupathi1990@gmail.com>
+Date:   Sat Jul 18 08:16:13 2020 +0530
+
+    changed .gitignore
+
+commit 281b5e997bf7984957f5fdf5b30e742c873b5f5d
+Merge: e9fb402 9c4a700
+Author: bhupathi <raobhupathi1990@gmail.com>
+Date:   Sat Jul 18 01:28:12 2020 +0530
+
+    Merge https://github.com/raobhoopathi1990/18 into staging
+
+commit e9fb4029cce18c5fc991694399c99ec1a7d79cdd
+Author: bhupathi <raobhupathi1990@gmail.com>
+Date:   Sat Jul 18 01:24:48 2020 +0530
+
+    first commit
+
+commit bc8095f3362ce4436756c716353ef763c4f3d4c8
+Author: bhupathi <raobhupathi1990@gmail.com>
+Date:   Sat Jul 18 01:12:43 2020 +0530
+
+    add all to LR
+
+commit 9c4a700cdb71e3461de557dd68aba7494263d93c
+Merge: 32fa90d 5649cb3
+Author: bhupathi <raobhupathi1990@gmail.com>
+Date:   Sat Jul 18 00:36:31 2020 +0530
+
+    Merge branch 'staging'
+    
+    Conflicts:
+    	file3
